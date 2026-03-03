@@ -1,0 +1,5 @@
+{
+  "name": "行銷報價快手 (Mobile Quote Gen)",
+  "description": "專為行銷業務設計的行動版報價單產生器，支援商品資料庫、稅務計算與 PDF 匯出。",
+  "requestFramePermissions": []
+}
